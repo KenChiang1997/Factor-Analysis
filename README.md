@@ -16,7 +16,7 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Mar
    
 # Equity Market : Rolling Beta , Momentum Factor Analysis , Beta Heding....etc
 
-More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Code
+More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Equity%20Market
 
 <img width="1334" alt="截圖 2021-08-22 下午2 55 53" src="https://user-images.githubusercontent.com/80143995/130345629-ec6323a3-27d6-493a-964a-0cb6b020b8be.png">
 
@@ -33,7 +33,7 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Cod
 
 # Fixed Income Market : Zero Coupoun Bond Valuation , US 10-Years bill Rate , Yield Spread ....etc 
 
-More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Code
+More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Fixed%20Income%20Market
 
 <img width="640" alt="截圖 2021-08-22 下午5 33 22" src="https://user-images.githubusercontent.com/80143995/130350185-9da9bde0-79d8-4b0b-85bf-9f852899b894.png">
 
