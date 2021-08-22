@@ -9,7 +9,7 @@ Index &amp; Factor Market Analysis
 <img width="949" alt="截圖 2021-08-22 下午3 16 49" src="https://user-images.githubusercontent.com/80143995/130346162-a304a6a7-4286-4024-9db7-258d03e8d581.png">
 
    
-# Rolling_Beta , Momentum Factor Analysis , Beta_Heding
+# Rolling_Beta , Momentum Factor Analysis , Beta_Heding....etc
    
    More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Code
 
