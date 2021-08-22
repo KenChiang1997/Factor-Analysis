@@ -14,7 +14,7 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Mar
 <img width="949" alt="截圖 2021-08-22 下午3 16 49" src="https://user-images.githubusercontent.com/80143995/130346162-a304a6a7-4286-4024-9db7-258d03e8d581.png">
 
    
-# Rolling Beta , Momentum Factor Analysis , Beta Heding....etc
+# Equity Market : Rolling Beta , Momentum Factor Analysis , Beta Heding....etc
 
 More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Code
 
@@ -29,4 +29,17 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Cod
 
 
 <img width="909" alt="截圖 2021-08-22 下午4 42 08" src="https://user-images.githubusercontent.com/80143995/130348350-57321785-fe17-4323-aed4-3f37e3b61ae1.png">
+
+
+# Fixed Income Market : Zero Coupoun Bond Valuation , US 10-Years bill Rate , Yield Spread ....etc 
+
+More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Code
+
+<img width="640" alt="截圖 2021-08-22 下午5 33 22" src="https://user-images.githubusercontent.com/80143995/130350185-9da9bde0-79d8-4b0b-85bf-9f852899b894.png">
+
+![10 year](https://user-images.githubusercontent.com/80143995/130350187-29d360f6-c726-49d6-b13c-0ebf7eb09a9e.png)
+
+![yield spread](https://user-images.githubusercontent.com/80143995/130350188-89fe6fdd-bf15-44c2-bc9d-ca539e1bfaae.png)
+
+![S P](https://user-images.githubusercontent.com/80143995/130350190-59264739-5c80-4c5f-968f-69cbb592655d.png)
 
