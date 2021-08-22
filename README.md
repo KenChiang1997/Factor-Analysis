@@ -2,7 +2,7 @@
 
 Index &amp; Factor Market Analysis 
 
-Reference : Quantopian
+Reference : Quantopian Lectures 
 
 # Market Data
 
