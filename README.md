@@ -1,4 +1,4 @@
-# Factor-Analysis-
+# Factor-Analysis
 Index &amp; Factor Market Analysis 
 
 
