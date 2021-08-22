@@ -28,3 +28,5 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Cod
 <img width="1322" alt="截圖 2021-08-22 下午2 56 25" src="https://user-images.githubusercontent.com/80143995/130345635-20e21f8c-6dd1-4700-bb83-bbf0be832647.png">
 
 
+<img width="909" alt="截圖 2021-08-22 下午4 42 08" src="https://user-images.githubusercontent.com/80143995/130348350-57321785-fe17-4323-aed4-3f37e3b61ae1.png">
+
