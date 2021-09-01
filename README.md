@@ -14,7 +14,7 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Mar
 <img width="949" alt="截圖 2021-08-22 下午3 16 49" src="https://user-images.githubusercontent.com/80143995/130346162-a304a6a7-4286-4024-9db7-258d03e8d581.png">
 
    
-# Equity Market : Rolling Beta , Momentum Factor Analysis , Beta Heding , CAPM , SML ....etc
+# Equity Market : Rolling Beta , Momentum Factor Analysis , Beta Heding , Factor BackTesting ,  CAPM , SML ....etc
 
 More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Equity%20Market
 
