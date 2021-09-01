@@ -28,6 +28,12 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Equ
 <img width="1322" alt="截圖 2021-08-22 下午2 56 25" src="https://user-images.githubusercontent.com/80143995/130345635-20e21f8c-6dd1-4700-bb83-bbf0be832647.png">
 
 
+<img width="1317" alt="截圖 2021-09-01 下午1 41 24" src="https://user-images.githubusercontent.com/80143995/131618254-4d14bfc5-8a61-4a28-a9b0-fdb89b659d45.png">
+
+
+<img width="1317" alt="截圖 2021-09-01 下午1 44 10" src="https://user-images.githubusercontent.com/80143995/131618282-a66b4098-f989-48ad-9f71-d22e64ae4623.png">
+
+
 ![截圖 2021-08-23 下午11 18 55](https://user-images.githubusercontent.com/80143995/130472987-5dda32ca-bfb6-40c1-9457-7d11968239f7.png)
 
 
