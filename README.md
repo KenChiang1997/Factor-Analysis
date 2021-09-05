@@ -4,7 +4,7 @@ Index &amp; Factor Market Analysis
 
 Reference : Quantopian Lectures 
 
-# Market Data
+# Market Data : Equity Price,Volume , Fama French Data , Financial Statement Data
 
 
 More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Market%20Data%20Code
