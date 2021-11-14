@@ -22,7 +22,14 @@ More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Mar
 
 More Detail on : https://github.com/KenChiang1997/Factor-Analysis-/tree/main/Equity%20Market
 
-<img width="1334" alt="截圖 2021-08-22 下午2 55 53" src="https://user-images.githubusercontent.com/80143995/130345629-ec6323a3-27d6-493a-964a-0cb6b020b8be.png">
+<img width="878" alt="截圖 2021-11-14 下午1 54 59" src="https://user-images.githubusercontent.com/80143995/141669500-e24cadf8-91c1-48c5-8c33-07f610545f87.png">
+
+<img width="1073" alt="截圖 2021-11-14 下午1 55 26" src="https://user-images.githubusercontent.com/80143995/141669503-fbb83ac3-7acb-45ee-ad16-7b5926466f3c.png">
+
+<img width="1073" alt="截圖 2021-11-14 下午1 55 16" src="https://user-images.githubusercontent.com/80143995/141669505-28b8ceaf-0441-498c-9efe-0345be70457d.png">
+
+<img width="1073" alt="截圖 2021-11-14 下午1 55 35" src="https://user-images.githubusercontent.com/80143995/141669507-3dedc738-83b9-49d6-981f-3fcaa0166c0b.png">
+
 
 <img width="1334" alt="截圖 2021-08-22 下午2 55 08" src="https://user-images.githubusercontent.com/80143995/130345612-026ce7ea-357e-4a7b-b4f7-d5d3523b8864.png">
 
