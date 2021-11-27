@@ -69,27 +69,49 @@ class Portfolio_Summary():
             
         return  var
 
-def Backtest_Summay_DF(start_date,end_date,Daily_Returns,Benchmark_Returns):
 
+def Backtest_Summay_DF(start_date,end_date,Daily_Returns,Benchmark_Returns=None):
 
-    BackTesint_Summary_Df = pd.DataFrame({
+    if Benchmark_Returns :
 
-        "Start Date"        : [start_date] , 
-        "End   Date"        : [end_date]   , 
-        "-"                 : ["-"] ,
-        "Annual Return"     : [Portfolio_Summary.Annual_Return(Daily_Returns)]         , 
-        "Annual Volitiliy"  : [Portfolio_Summary.Annual_Volitiliy(Daily_Returns)]      , 
-        "Cumulative Return" : [Portfolio_Summary.Cumulative_Return(Daily_Returns)]     ,
-        "Sharpe Ratio"      : [Portfolio_Summary.Sharpe_Ratio(Daily_Returns)]          ,
-        "Calmar Ratio"      : [Portfolio_Summary.Calmar_Ratio(Daily_Returns)]          ,
-        "Omega Ratio"       : [Portfolio_Summary.Omega_Ratio(Daily_Returns,Benchmark_Returns)]           ,
-        "Sortino Ratio"     : [Portfolio_Summary.Sortino_Ratio(Daily_Returns,Benchmark_Returns)]         ,
+        BackTesint_Summary_Df = pd.DataFrame({
 
-        "Daily Value at Risk"   : [ Portfolio_Summary.Value_at_Risk(Daily_Returns,confidence_level=0.95)    ]     ,
-        "Maximum Drawdown"      : [ Portfolio_Summary.Maximun_drawdown(Daily_Returns)]                            ,
+            "Start Date"        : [start_date] , 
+            "End   Date"        : [end_date]   , 
+            "-"                 : ["-"] ,
+            "Annual Return"     : [Portfolio_Summary.Annual_Return(Daily_Returns)]         , 
+            "Annual Volitiliy"  : [Portfolio_Summary.Annual_Volitiliy(Daily_Returns)]      , 
+            "Cumulative Return" : [Portfolio_Summary.Cumulative_Return(Daily_Returns)]     ,
+            "Sharpe Ratio"      : [Portfolio_Summary.Sharpe_Ratio(Daily_Returns)]          ,
+            "Calmar Ratio"      : [Portfolio_Summary.Calmar_Ratio(Daily_Returns)]          ,
+            "Omega Ratio"       : [Portfolio_Summary.Omega_Ratio(Daily_Returns,Benchmark_Returns)]           ,
+            "Sortino Ratio"     : [Portfolio_Summary.Sortino_Ratio(Daily_Returns,Benchmark_Returns)]         ,
+
+            "Daily Value at Risk"   : [ Portfolio_Summary.Value_at_Risk(Daily_Returns,confidence_level=0.95)    ]     ,
+            "Maximum Drawdown"      : [ Portfolio_Summary.Maximun_drawdown(Daily_Returns)]                            ,
+            
+
+        },index=["Backtest"])
+    
+    else :
         
+        BackTesint_Summary_Df = pd.DataFrame({
 
-    },index=["Backtest"])
+            "Start Date"        : [start_date] , 
+            "End   Date"        : [end_date]   , 
+            "-"                 : ["-"] ,
+            "Annual Return"     : [Portfolio_Summary.Annual_Return(Daily_Returns)]         , 
+            "Annual Volitiliy"  : [Portfolio_Summary.Annual_Volitiliy(Daily_Returns)]      , 
+            "Cumulative Return" : [Portfolio_Summary.Cumulative_Return(Daily_Returns)]     ,
+            "Sharpe Ratio"      : [Portfolio_Summary.Sharpe_Ratio(Daily_Returns)]          ,
+            "Calmar Ratio"      : [Portfolio_Summary.Calmar_Ratio(Daily_Returns)]          ,
+
+            "Daily Value at Risk"   : [ Portfolio_Summary.Value_at_Risk(Daily_Returns,confidence_level=0.95)    ]     ,
+            "Maximum Drawdown"      : [ Portfolio_Summary.Maximun_drawdown(Daily_Returns)]                            ,
+            
+
+        },index=["Backtest"])
+
 
 
     return  BackTesint_Summary_Df.T
@@ -136,6 +158,7 @@ class Ken_French_Library():
 
     def __len__(self):
         return self.five_factors.shape[0]
+
 
 def Address_Date(date):
     
